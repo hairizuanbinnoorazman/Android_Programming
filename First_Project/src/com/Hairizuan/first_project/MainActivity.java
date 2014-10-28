@@ -14,6 +14,7 @@ import android.os.Build;
 public class MainActivity extends ActionBarActivity {
 	
 	int	tempGitIntTrial;
+	String trial = "yahoo";
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
